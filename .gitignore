@@ -44,4 +44,7 @@ nb-configuration.xml
 # TLS Certificates
 .certs/
 
+#Apache Camel
+mediator-files/.camel/
+mediator-files/*.csv
 

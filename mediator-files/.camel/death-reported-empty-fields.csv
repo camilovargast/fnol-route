@@ -1,4 +1,0 @@
-TX ID,Application_ID,POLICY NUMBER,Policy Holder,DECEASED NAME,Deceased Last Name,Date Of Death,Death TIME,Death TYPE,ID Deceased,Body Location,CLAIMANT NAME,Claimant Last Name,CLAIMANT ID,Disposition
-TX-0001,APP-789456,POL-100234,PH-456789,John,Smith,15/09/2026,14:35,NATURAL,D-123456,Madrid,Michael,Smith,C-789456,Burial
-TX-0002,,POL-100235,PH-456790,Maria,Garcia,22/09/2026,09:20,ACCIDENT,D-123457,Barcelona,Laura,Garcia,C-789457,Cremation
-TX-0003,APP-789456,POL-100236,PH-456791,Robert,Johnson,30/09/2026,18:45,NATURAL,D-123458,Valencia,David,Johnson,C-789458,Burial
